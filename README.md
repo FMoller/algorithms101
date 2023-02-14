@@ -30,3 +30,5 @@ Piora que em alguns casos o professor também foca demais em tecnicidades da lin
 Por fim, algumas tentativas de resolver isso foram bem infelizes, pelo menos na minha opinião. Uma delas é o portugol. Traduzir os termos de uma linguagem de programação do inglês para a lingua local não resolve o problema! O aluno ainda fica muito focado na sintaxe da linguagem e com um agravante: dessa vez é uma linguagem que nem tem uso comercial e só tem material de ensino em português!
 
 Existem algumas alternativas válidas, para o aluno programar e aprender algoritmos ao mesmo tempo. "Linguagens" visuais, nas quais você se programa arrastando e unindo blocos, como é o caso da interface utilizada pelos robôs do Lego mindstorms ajudam o aluno a desviar o foco de coisas que não são importantes no momento, como regras de sintaxe e nomes de funções. Mas o ideal mesmo é que se retrabalhe a simplificação e resolução de problemas antes de começar a programar.
+
+## Proposta do curso
