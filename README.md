@@ -16,3 +16,7 @@ Essas técnicas são ensinadas e exercitadas durante o ensino fundamental e méd
 Também deve-se considerar que em muitos casos esse ensino foi deficiente: o aluno estava desinteressado, o material mal preparado, o professor não evidenciou bem esses métodos de resolução de problema... tudo isso atrapalha o aluno no estudo de algoritmos.
 
 ### Didática ruim
+
+Outro problema comum no estudo de algoritmos é didática ruim: alguns professores focam demais em particularidades de elementos de algoritmos do que na sua ideia geral, outros focam demais em mostrar algoritmos classicos do que expor os alunos a problemas e ajuda-los a desenvolver uma solução.
+
+### Ensino atrelado a uma linguagem de programação
