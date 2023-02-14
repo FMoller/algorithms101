@@ -29,4 +29,4 @@ Piora que em alguns casos o professor também foca demais em tecnicidades da lin
 
 Por fim, algumas tentativas de resolver isso foram bem infelizes, pelo menos na minha opinião. Uma delas é o portugol. Traduzir os termos de uma linguagem de programação do inglês para a lingua local não resolve o problema! O aluno ainda fica muito focado na sintaxe da linguagem e com um agravante: dessa vez é uma linguagem que nem tem uso comercial e só tem material de ensino em português!
 
-`#0969DA` s
+	rgb(9, 105, 218)
