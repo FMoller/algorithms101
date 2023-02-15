@@ -32,3 +32,8 @@ Por fim, algumas tentativas de resolver isso foram bem infelizes, pelo menos na 
 Existem algumas alternativas válidas, para o aluno programar e aprender algoritmos ao mesmo tempo. "Linguagens" visuais, nas quais você se programa arrastando e unindo blocos, como é o caso da interface utilizada pelos robôs do Lego mindstorms ajudam o aluno a desviar o foco de coisas que não são importantes no momento, como regras de sintaxe e nomes de funções. Mas o ideal mesmo é que se retrabalhe a simplificação e resolução de problemas antes de começar a programar.
 
 ## Proposta do curso
+
+O curso é dividido em três partes. Na parte 1 vamos tratar das técnicas de resolução e simplificação de problemas. Na parte 2 vamos entrar de fato no estudo de algoritmos, com a formalização de alguns termos, porém sem entrar em nenhuma linguagem de programação. Haverá prática na parte dois, mas com a construção de algoritmos em linguagem informal. Na parte 3 entraremos em uma linguagem de programção.
+
+Na parte 3 trabalharemos com C ANSI, ou com Python. As linguagens serão tratadas em paralelo, ou seja, o aluno pode escolher com qual linguagem vai querer trabalhar, ou qual linguagem vai querer ver primeiro. É importante ressaltar que o objetivo do curso é o estudo de algoritmos, não das linguagens em questão, então não entraremos em detalhes em nenhuma delas.
+
