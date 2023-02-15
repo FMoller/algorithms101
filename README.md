@@ -37,3 +37,7 @@ O curso é dividido em três partes. Na parte 1 vamos tratar das técnicas de re
 
 Na parte 3 trabalharemos com C ANSI, ou com Python. As linguagens serão tratadas em paralelo, ou seja, o aluno pode escolher com qual linguagem vai querer trabalhar, ou qual linguagem vai querer ver primeiro. É importante ressaltar que o objetivo do curso é o estudo de algoritmos, não das linguagens em questão, então não entraremos em detalhes em nenhuma delas.
 
+Na pasta de cada parte existe, na descrição, um programa de estudos, contemplando a lista de assuntos que serão abordados em cada aula. Existem propostas de exercícios e é interessante que o aluno tente resolver estes. Para cada exercício haverá um pequeno video explicando sua resolução. O aluno também pode enviar dúvidas via comentário nos vídeos das aulas, ou comentar em fóruns [AINDA VOU POR]. Eu só não garânto uma resposta, muito menos uma resposta rápida. Infelizmente eu não consigo ficar acompanhando comentários e postagens em fóruns.
+
+Desejo a todos uma ótima jornada de estudos e espero que esse curso seja bem útil.
+
