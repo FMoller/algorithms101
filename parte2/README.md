@@ -2,5 +2,36 @@
 
 Nesta parte do curso abordaremos alguns conceitos fundamentais de algoritmos, como a sequencialidade, entradas, saídas, variáveis, bem como os blocos básicos de construção de um controle de fluxo: desvios condicionais e ciclos.
 
-## a
+## Conteúdo do módulo
 
+### Aula 08: Problema 07: "Olá Fulano" -Entradas, Saídas e Variáveis
+Vídeo [COLOCAR]
+
+Análise de um programa simples, que diz Olá + Nome da pessoa para quem vai se dizer o Olá.
+
+### Exercício 06: Problema 08: "Média de três números"
+Vídeo [COLOCAR]
+
+Programa para calcular a média de três números
+
+### Aula 09: Problema 09: "Pesagem de caminhão" -Desvio condicional e blocos de instrução
+Vídeo [COLOCAR]
+
+Um caminhão se prepara para sair da transportadora, existe todo um procedimento a ser realizado
+
+### Aula 10: Problema 10: "Divisão por 0" -Desvio condicional e exceção
+Vídeo [COLOCAR]
+
+Não existe divisão por zero, mas é possível dizer que o número tende a...
+
+### Aula 11: Problema 10: "Divisão por 0" -Desvio condicional e aninhamento de blocos
+Vídeo [COLOCAR]
+
+Não existe divisão por zero, mas é possível dizer que o número tende a... agora contemplando sinais
+
+### Exercício 07: Problema 11: "Ordenar sequência de 3 números"
+Vídeo [COLOCAR]
+
+Dado 3 números, colocar eles em sequência crescente
+
+### Aula 12: Problema 12: "
