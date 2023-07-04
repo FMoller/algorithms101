@@ -64,7 +64,7 @@ Um famoso exercício de física de vestibulares
 ### Exercício 04: Problema 04: Procurando o nome numa lista de nomes
 Video: [COLOCAR]
 
-Procurar o seu nome em uma lista de nomes parece bombeira, mas você consegue quebrar isso numa sequencia de passos simples?
+Procurar o seu nome em uma lista de nomes parece bobeira, mas você consegue quebrar isso numa sequencia de passos simples?
 
 ### Exercício 05: Problema 06: Organizando livros
 Video: [COLOCAR]
