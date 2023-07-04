@@ -34,4 +34,17 @@ Vídeo [COLOCAR]
 
 Dado 3 números, colocar eles em sequência crescente
 
-### Aula 12: Problema 12: "
+### Aula 12: Problema 12: "Encontrar o maior número"
+Vídeo [COLOCAR]
+
+Dada uma sequência de N números encontrar o maior
+
+### Aula 13: Problema 13: "Advinhe o número"
+Vídeo [COLOCAR]
+
+A máquina sorteia um número de 0 a 100 e você tem que advinhar qual
+
+### Exercício 08: Problema 14: "Ordenar uma sequência de "N" números"
+Vídeo [COLOCAR]
+
+Dada uma sequência de "N" números, colocar em ordem crescente.
