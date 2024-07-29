@@ -18,5 +18,6 @@ O [Google Classroom](https://classroom.google.com/) é uma plataforma do google 
 Para entrar, você precisa de uma conta google (se você tem gmail, ou conta no youtube, você já tem uma). No canto superior direito você poderá fazer login selecionando a opção FAZER LOGIN, GOOGLE SALA DE AULA
 <p align="center">
 ![Login Google Classroom](img/classroom00.png)
+  <img src="img/classroom00.png" />
 </p>
 
