@@ -17,7 +17,8 @@ Os códigos do curso estartão disponíveis em no [Repositório do Curso](https:
 O [Google Classroom](https://classroom.google.com/) é uma plataforma do google para ensino a distância. Lá é possível assistir aos vídeos das aulas, realizar perguntas e fazer os testes teóricos.
 Para entrar, você precisa de uma conta google (se você tem gmail, ou conta no youtube, você já tem uma). No canto superior direito você poderá fazer login selecionando a opção FAZER LOGIN, GOOGLE SALA DE AULA
 
-<p align="right">
-  <img src="https://github.com/FMoller/algorithms101/blob/main/parte_1/Aula_00/img/classroom00.png" alt="img0"/>
-</p>
+![image](https://github.com/user-attachments/assets/16b64829-7175-42b3-b840-2dfbaca5ecd5)
+
+
+
 
