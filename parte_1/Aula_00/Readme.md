@@ -15,9 +15,24 @@ Os códigos do curso estartão disponíveis em no [Repositório do Curso](https:
 ## O Google Classroom:
 
 O [Google Classroom](https://classroom.google.com/) é uma plataforma do google para ensino a distância. Lá é possível assistir aos vídeos das aulas, realizar perguntas e fazer os testes teóricos.
-Para entrar, você precisa de uma conta google (se você tem gmail, ou conta no youtube, você já tem uma). No canto superior direito você poderá fazer login selecionando a opção FAZER LOGIN, GOOGLE SALA DE AULA
+Para entrar, você precisa de uma conta google (se você tem gmail, ou conta no youtube, você já tem uma). Depois siga o passo a passo:
 
-![image](https://github.com/user-attachments/assets/16b64829-7175-42b3-b840-2dfbaca5ecd5)
+1. Entre no [Google Classroom](https://classroom.google.com/)
+2. No canto superior direito clique em Fazer Login
+   -Clique em Google Sala de Aula
+3. No canto superior direito, clique no símbolo de "+"
+   -Clique em "Join Class"
+4. No campo "Class Code" digite o código de nossa sala [COLOCAR]
+
+Pronto, Com isso você tem acesso a nossa sala de aula do curso.
+
+Para mais detalhes sobre nossa sala de aula veja [COLOCAR MATERIAL]
+
+## O Github
+
+
+
+
 
 
 
