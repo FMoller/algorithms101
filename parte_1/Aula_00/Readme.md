@@ -30,6 +30,14 @@ Para mais detalhes sobre nossa sala de aula veja [COLOCAR MATERIAL]
 
 ## O Github
 
+Se você está lendo essa frase, eu acredito que não seja necessário indicar o endereço do girhub.
+
+O github é uma plataforma de versionamento e é amplamente utilizada no mundo do desenvolvimento de software. Ela permite que diversas versões do código sejam comparadas e em caso de erro, o código seja revertido para uma versão estável de maneira rápida. Também permite separar o código pronto para produção do código em desenvolvimento, bem como o trabalho de diversos programadores no mesmo programa sem maiores conflitos.
+
+Para baixar o material disponibilizado aqui, não é necessário ter uma conta no github. Tanto neste repositório, quanto em qualquer outro publico, você pode ir na raiz (na pasta mais abrangente do repositório, no caso desse seria [ESSA](https://github.com/FMoller/algorithms101) ir no botão CODE, clicar na setinha para baixo e clicar em download zip.
+
+Todavia é interessante fazer um clone do repositório. Existem diversas maneiras, mas neste video [COLOCAR] eu explico como fazer isso usando o aplicativo do github para windows. Com o repositório clonado você vai poder criar suas próprias branches e fazer alterações nela. Nesse curso isso não faz muita diferença, mas é uma boa prática.
+
 
 
 
