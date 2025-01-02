@@ -12,6 +12,8 @@ Enquanto "arrumar um quarto", em sí descreve uma tarefa, é muito difícil expl
 
 ## Soluções diferentes versus mesma solução com situações diferentes 
 
+Em geral não pensamos nisso, mas existem tarefas que não são realmente diferentes, o que é diferente é onde/quando estão sendo realizadas. Polir móveis é uma mesma tarefas, mas é realizada de forma diferente quando executa ela na cama, onde você não vai passar o polidor no colchão, do que no criado mudo, onde você vai polir o móvel por completo. Embora não pensemos nisso no dia a dia é bom verificar esse padrão, pois ele é bem útil no projeto de um algoritmo.
+
 ## Prioridade de ações
 
 ## Estrutura final de resolução de um problema 
