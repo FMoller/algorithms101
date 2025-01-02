@@ -16,6 +16,8 @@ Em geral não pensamos nisso, mas existem tarefas que não são realmente difere
 
 ## Prioridade de ações
 
+Se o quarto está todo empoeirado e entulhado, não faz sentido varrer todo o chão logo de cara, pois você vai acabar varrendo e jogando fora alguns objetos de valor e quando for tirar a poeira dos móveis, essa poeira vai para o chão, sujando-o de novo. Definir quais tarefas precisam ser executadas antes das outras é importante para que a tarefa principal seja realizada de forma correta e eficiente.
+
 ## Estrutura final de resolução de um problema 
 
 
