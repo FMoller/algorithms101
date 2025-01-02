@@ -20,6 +20,8 @@ Se o quarto está todo empoeirado e entulhado, não faz sentido varrer todo o ch
 
 ## Estrutura final de resolução de um problema 
 
+Com o problema principal dividido em problemas menores e a ordem de prioridade de cada um dos subproblema divididos temos a estrutura geral de nossa forma de resolver o problema. Com isso temos apenas que executa-la.
+
 
 
 
