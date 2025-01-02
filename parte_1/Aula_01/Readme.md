@@ -8,6 +8,8 @@ Problemas de programação não são assim tão diferentes dos problemas que enc
 
 ## Separação em problemas menores
 
+Enquanto "arrumar um quarto", em sí descreve uma tarefa, é muito difícil explicar no que isso consister se não pelo uso de tarefas menores. Isso porque arrumar um quarto é uma tarefa complexa e portanto ela pode ser dividida em tarefas menores como: arrumar a escrivaninha, arrumar a cama, varrer o chão, passar pano nos móveis... E cada uma dessas tarefas podem ser divididas em tarefas ainda menores, até chegarmos em um conjunto de tarefas simples, que somadas resolvem o nosso problema de arrumar o quarto.
+
 ## Soluções diferentes versus mesma solução com situações diferentes 
 
 ## Prioridade de ações
