@@ -56,7 +56,7 @@ Video: [COLOCAR]
 
 Um problema básico de conjuntos
 
-### Exercício 03: Problema 04: Mosca entre trems
+### Exercício 03: Problema 04: Mosca entre trens
 Video: [COLOCAR]
 
 Um famoso exercício de física de vestibulares
