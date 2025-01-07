@@ -13,7 +13,7 @@ Essa pergunta parece idiota e a resposta ainda é pior: é necessário um quarto
 
 ## Pensando nas subtarefas:
 
-Arrumar o quarto consiste em uma série de tarefas menores, como arrumar a cama, levar a roupa suja para fora, varrer o chão, organizar a mesa, tirar poeira dos móveis... 
+Arrumar o quarto consiste em uma série de tarefas menores, como arrumar a cama, levar a roupa suja para fora, varrer o chão, organizar a mesa, tirar poeira dos móveis... Algumas dessas subtarefas tem suas próprias subtarefas: tirar objetos que não pertencem à escrivaninha dela, alinhas os objetos que pertencer à ela, bater a poeira, passar pano... 
 
 
 
