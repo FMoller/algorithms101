@@ -11,7 +11,9 @@ Identificar e definir a ordem de prioridade de realização de subtarefas é imp
 
 Essa pergunta parece idiota e a resposta ainda é pior: é necessário um quarto. Você não pode arrumar um quarto sem que haja algum quarto para ser arrumado. Um quarto então é a "entrada" do probelma de arrumação de quarto. Você pode também pensar que precisa de material de limpeza e que o quarto esteja sujo, bem, essa nossa analogia é bastante aberta e isso nãoestaria incorreto, mas vamos tomar só o quarto como entrada aqui, afinal você só vai conseguir definir se o quarto realmente precisa ser limpo e que materiais você vai precisar depois de olhar ele. E em geral a maioria dos algoritmos começa justamente com isso, com a verificação da validade da entrada e em níveis mais baixos de programação com a requisição de memória ao S.O. para realizar determinadas operações (mas não vamos nos preocupar com isso agora)
 
+## Pensando nas subtarefas:
 
+Arrumar o quarto consiste em uma série de tarefas menores, como arrumar a cama, levar a roupa suja para fora, varrer o chão, organizar a mesa, tirar poeira dos móveis... 
 
 
 
