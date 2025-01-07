@@ -13,7 +13,17 @@ Essa pergunta parece idiota e a resposta ainda é pior: é necessário um quarto
 
 ## Pensando nas subtarefas:
 
-Arrumar o quarto consiste em uma série de tarefas menores, como arrumar a cama, levar a roupa suja para fora, varrer o chão, organizar a mesa, tirar poeira dos móveis... Algumas dessas subtarefas tem suas próprias subtarefas: tirar objetos que não pertencem à escrivaninha dela, alinhas os objetos que pertencer à ela, bater a poeira, passar pano... 
+Arrumar o quarto consiste em uma série de tarefas menores, como arrumar a cama, levar a roupa suja para fora, varrer o chão, organizar a mesa, tirar poeira dos móveis... Algumas dessas subtarefas tem suas próprias subtarefas: tirar objetos que não pertencem à escrivaninha dela, alinhas os objetos que pertencer à ela, bater a poeira, passar pano... E algumas dessas tarefas se intercalam: tecnicamente você tem que passar o pano na escrivaninha no meio da arrumação delas. Essa análise nos dá uma pista boa de quais subproblemas serão resolvidos primeiro.
+
+## Impedimentos e entradas requeridas:
+
+Se o chão do quarto está entulhado de coisas, talvez seja impossível ou inviável chegar até a escrivaninha para arrumar ela. Para passar pano no chão, temos que varrer antes ou o excesso de poeira vai virar um barro com a agua do pano. Algumas subtarefas são impossíveis de serem executadas sem que alguns problemas sejam resolvidos antes, outras exigem que a entrada satisfaça certas condições.
+
+## Resultado de ações:
+
+Ao bater o pó dos móveis, a poeira vai para o chão. O resultado dessa ação não é apenas um móvel limpo, mas um chão empoeirado. O resultado de varrer o chão é um chão não empoeirado. O resultado de algumas tarefas podem afetar mais de um elemento e até fazer com que um elemento já tratado, volte ao seu estado inicial. 
+
+
 
 
 
